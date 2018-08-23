@@ -16,7 +16,3 @@ Requirements for installation
 ```
 Or Debian Bundle Package Download
 [sqlmap_1.2.4-1_termux.deb](https://git.io/vpZZb)
-### Copyright © 2017-2018 Mehrab Poladov
-<head>
-  <link rel="shortcut icon" type="image/png" href="/favicon.png">
-</head>
